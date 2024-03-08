@@ -17,5 +17,7 @@ module.exports = {
     'semi': ['error', 'always', { 'omitLastInOneLineBlock': false }],
     'comma-dangle': ['error', 'always-multiline'],
     'quotes': ['error', 'single'],
+    'react/prop-types': 'off',
+    'indent': ['error', 4],
   },
 };
